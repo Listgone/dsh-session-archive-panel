@@ -1,5 +1,5 @@
 /**
- * @dsh-external/dsh-session-archive-panel —— client 端。
+ * dsh-session-archive-panel —— client 端。
  *
  * 做两件事：
  *  1) 设置页（settings.section）新增「归档会话」：列出所有工作区的已归档会话，
