@@ -1,6 +1,6 @@
 {
   "name": "dsh-session-archive-panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DeepSeek Harness 插件：设置里加「归档会话」页，可搜索、逐条或全部恢复、彻底删除已归档对话；工作区侧栏不显示任何已归档会话。",
   "type": "module",
   "main": "./lib/index.js",
