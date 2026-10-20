@@ -1,0 +1,6 @@
+# dsh-session-archive-panel bundle 层：
+# 在「设置」里装配「归档会话」页；工作区会话列表默认不显示已归档会话。
+- insert:
+    - id: dsh-session-archive-panel
+      name: 'dsh-session-archive-panel'
+      config: {}
